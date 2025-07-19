@@ -110,18 +110,15 @@ aboutTabHeaderDesc = "Ver información y notas de lanzamiento para la versión a
 aboutTitle = "{appName}"
 stableRelease = "Versión Estable"
 versionText = "Versión "
-sourceGithub = "Código Fuente (GitHub)"
-support = "Soporte"
-devToolsConsole = "Consola de DevTools"
+
 releaseNotes = "Notas de Lanzamiento"
 changelog = "Registro de Cambios"
 noReleaseNotes = "Sin Notas de Lanzamiento"
-viewReleaseNotes = "Ver Notas de Lanzamiento en GitHub"
 launcherUpdatesHeaderText = "Actualizaciones del Launcher"
 launcherUpdatesHeaderDesc = "Descargar, instalar y revisar actualizaciones para el launcher."
 checkForUpdates = "Verificar Actualizaciones"
 whatsNew = "Novedades"
-updateReleaseNotes = "Notas de Actualización"
+
 
 [ejs.waiting]
 waitingText = "Esperando a Microsoft.."
